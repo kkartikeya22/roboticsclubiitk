@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/roboticsclubiitk/static/css/main.aee4f2d1.css",
+    "main.js": "/roboticsclubiitk/static/js/main.a5e933e8.js",
+    "static/media/361655449___n.jpg": "/roboticsclubiitk/static/media/361655449_17917073492772273_5987748815285811773_n.f93890f7306bc343c9cf.jpg",
+    "static/media/361569879___n.jpg": "/roboticsclubiitk/static/media/361569879_17917072442772273_2576835497863848797_n.3756d567056cffd71993.jpg",
+    "static/media/335663240___n.webp": "/roboticsclubiitk/static/media/335663240_6007951432587694_4824841191538563842_n.9694867cda0e09d7eeae.webp",
+    "static/media/319045169___n.webp": "/roboticsclubiitk/static/media/319045169_1598271510614071_5508711056182990686_n.f7076eede9ab08720869.webp",
+    "static/media/logo.png": "/roboticsclubiitk/static/media/logo.8c5b20784722e28dee0f.png",
+    "index.html": "/roboticsclubiitk/index.html",
+    "main.aee4f2d1.css.map": "/roboticsclubiitk/static/css/main.aee4f2d1.css.map",
+    "main.a5e933e8.js.map": "/roboticsclubiitk/static/js/main.a5e933e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aee4f2d1.css",
+    "static/js/main.a5e933e8.js"
+  ]
+}
