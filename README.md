@@ -19,7 +19,6 @@ Welcome to the Robotics Club IIT Kanpur Website project. This website serves as 
 
 The Robotics Club IIT Kanpur Website project is a student-driven initiative focused on revitalizing the online presence of the Robotics Club at the prestigious Indian Institute of Technology, Kanpur. It's designed to be an inviting and informative space for anyone interested in the field of robotics, from beginners to experts.
 
-![Robotics Club Members](https://roboticsclubiitk.github.io/assets/images/takneek.png)
 
 ## Technology Stack
 
