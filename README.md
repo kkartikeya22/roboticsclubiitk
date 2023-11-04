@@ -1,23 +1,25 @@
 # Robotics Club IIT Kanpur Website
 
-Welcome to the Robotics Club IIT Kanpur Website project. This website serves as a dynamic platform for knowledge sharing, collaboration, and engagement within the world of robotics. 
+Welcome to the Robotics Club IIT Kanpur Website project. This website serves as a dynamic platform for knowledge sharing, collaboration, and engagement within the world of robotics.
 
 ![Robotics Club IIT Kanpur](https://roboticsclubiitk.github.io/assets/images/logo.png)
 
 ## Table of Contents
 
-- Introduction
-- Technology Stack
-- Project Overview
-- Features
-- Getting Started
-- Contribution Guidelines
-- About the Robotics Club
-- License
+- [Introduction](#introduction)
+- [Technology Stack](#technology-stack)
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Contribution Guidelines](#contribution-guidelines)
+- [About the Robotics Club](#about-the-robotics-club)
+- [License](#license)
 
 ## Introduction
 
 The Robotics Club IIT Kanpur Website project is a student-driven initiative focused on revitalizing the online presence of the Robotics Club at the prestigious Indian Institute of Technology, Kanpur. It's designed to be an inviting and informative space for anyone interested in the field of robotics, from beginners to experts.
+
+![Robotics Club Members](https://roboticsclubiitk.github.io/assets/images/takneek.png)
 
 ## Technology Stack
 
@@ -29,6 +31,8 @@ The Robotics Club IIT Kanpur Website project is a student-driven initiative focu
 ## Project Overview
 
 This project is more than just code; it's a testament to the enthusiasm and dedication of the Robotics Club members. The website is built using a modern technology stack, ensuring a seamless user experience. Its dynamic and interactive design makes it a hub for showcasing the club's projects, events, and achievements.
+
+![Project Showcase](https://roboticsclubiitk.github.io/assets/images/projects.jpg)
 
 ## Features
 
